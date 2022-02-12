@@ -14,4 +14,4 @@ Create a `secret.js` file with:
 
 ```
 
-where `key` is your own wallet private key and `avaxTestnetURL` is a network URL. `avaxTestnetURL` can be renamed to anything else. 
+where `key` is your own wallet private key and `avaxTestnetURL` is a network URL. `avaxTestnetURL` can be renamed to anything else. Further secrets can be added.
